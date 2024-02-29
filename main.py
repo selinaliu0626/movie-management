@@ -17,7 +17,7 @@ def main():
     user_management = UserManagement()
     movie_management = MovieManagement(user_management)
     # predefined two admins
-    founder = User(user_id=0, username="selina", email="selina06@bu.edu", password="123456", is_admin=True)
+    founder = User(user_id=0, username="selina", email="selina@example.com", password="123456", is_admin=True)
     admin = User(user_id=1, username="sarah", email="sarah@example.com", password="123456", is_admin=True)
     # use tuple to store the admin, because tuple is immutable
     admins = (founder, admin)
