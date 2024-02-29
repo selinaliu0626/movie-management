@@ -1,6 +1,6 @@
 <h1>Movie Management System</h1>
-<h4 style="text-align: right;">Term project for 2024 Spring 1 CS521</h4>
-<h5 style="text-align: right;">Author: Xiaonan(Selina) Liu</h5>
+<h4 style="text-align: right;">Term project for CS521</h4>
+<h5 style="text-align: right;">Author: Selina Liu</h5>
 
 <p>This program allow people to register as a user for the website, user could view , update rate and add reviews the  movies. Admins could
 add/delete movies. The program will display the movies according to their rating in descending order. </p>
